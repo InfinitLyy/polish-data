@@ -1,2 +1,2 @@
-# polish-data
-polish data
+# Polish data
+Repository includes: polish cities, etc.
